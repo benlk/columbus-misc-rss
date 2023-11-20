@@ -36,23 +36,21 @@ function iterate( $handle ) {
 			continue;
 		}
 
-		// var_dump( $data );
 		/*
 		 * 0 Feed Number
 		 * 1 Title
 		 * 2 Link
 		 * 3 Description
 		 * 4 Feed URL
-		 * 5 Newsletter Signup URL
-		 * 6 Most-Recent Date
-		 * 7 Number of items
+		 * 5 Feed Type
 		 */
 		printf(
-			'<outline text="%1$s" type="rss" title="%2$s" xmlUrl="%3$s" htmlUrl="%4$s"/>',
+			'<outline text="%1$s" type="%5$s" title="%2$s" xmlUrl="%3$s" htmlUrl="%4$s"/>',
 			escape($data[3]) ?? '',
 			escape($data[1]) ?? '',
 			escape($data[4]) ?? '',
-			escape($data[5]) ?? ''
+			escape($data[2]) ?? '',
+			escape($data[5]) ?? 'rss'
 		);
 		echo "\n";
 	}

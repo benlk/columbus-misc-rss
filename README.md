@@ -8,16 +8,16 @@
 
 **Why**: If you want to stay on top of things.
 
-**When**: See [the changelog](./changelog.md) for major updates to this repository; if you just want to keep an eye on updates watch the git log.
+**When**: See [the changelog](./changelog.md) for major updates to this repository; if you just want to keep an eye on updates [watch the git log](https://github.com/benlk/columbus-misc-rss/commits/trunk)
 
 **How**: The list is contained in `feeds.csv`, which is a [Comma-Separated Value](https://en.wikipedia.org/wiki/Comma-separated_values) file that you can open in a spreadsheet program such as Excel, Numbers, LibreOffice Calc, or Google Sheets. The data contains the following columns:
 
 - Feed Number: Legacy field for data format compatibility with [`benlk/columbus-govdelivery-rss`](https://github.com/benlk/columbus-govdelivery-rss/tree/trunk).
-- Title: This is extracted from each RSS feed. It is the title of the RSS feed, and probably contains the title of the mailing list.
+- Title: This is a hand-written title for the feed.
 - Link: This is extracted from each RSS feed. It is the related website URL for the feed, although I note that most URLs are for the maximally-generic domain instead of the more-specific corner of the website.
-- Description: This is extracted from each RSS feed. It is the feed's description of itself. I note that it is generally the same as the title.
-- Feed URL: This is generated from the ID. It is identical to the URL that was scraped to acquire the feed.
-- Newsletter Signup URL: I'm probably going to remove this field.
+- Description: This is a hand-written description of the content of the feed, with my commentary.
+- Feed URL: This is the feed URL.
+- Feed Type: RSS or Atom?
 
 If you find interesting feeds in this list, tell the world, but also tell me on Bluesky [@benlk.com](https://bsky.app/profile/benlk.com) or Mastodon [@benlk@urbanists.social](https://urbanists.social/@benlk)
 
