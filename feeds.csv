@@ -2,7 +2,7 @@
 "","Shannon Hardin's Medium","https://sghardin.medium.com/","Council President Shannon Hardin's personal blog","https://sghardin.medium.com/feed","rss"
 "","Central Ohio Transit Authority Blog","https://cota.com/blog","COTA blog; does not contain all COTA press releases and does not contain information on most reroutes","https://cota.com/rss.xml","rss"
 "","Columbus Recreation and Parks","https://columbusrecparks.com/","Rec Parks' website; content is not structured in a way that results in a functioning feed and most alerts go out via GovDelivery","https://columbusrecparks.com/feed/","rss"
-"","Columbus City Schools","https://www.ccsoh.us/","Columbus City Schools public RSS feed","https://www.ccsoh.us/site/Default.aspx?PageType=4&DomainID=4&ModuleInstanceID=125&PageID=1&PMIID=23636","rss"
+"","Columbus City Schools","https://www.ccsoh.us/","Columbus City Schools public RSS feed","https://www.ccsoh.us/site/RSS.aspx?DomainID=4&ModuleInstanceID=125&PageID=1&PMIID=23636","rss"
 "","benlk/columbus-govdelivery-rss","https://github.com/benlk/columbus-govdelivery-rss/","Recent Commits to Ben Keith's list of Columbus GovDelivery lists","https://github.com/benlk/columbus-govdelivery-rss/commits/trunk.atom","atom"
 "","benlk/columbus-misc-rss","https://github.com/benlk/columbus-misc-rss/","Recent Commits to Ben Keith's list of Columbus RSS feeds","https://github.com/benlk/columbus-misc-rss/commits/trunk.atom","atom"
 "","benlk/columbus-gov-websites","https://github.com/benlk/columbus-gov-websites/","Recent Commits to Ben Keith's list of Columbus-registered domain names","https://github.com/benlk/columbus-gov-websites/commits/main.atom","atom"
