@@ -1,0 +1,18 @@
+<opml version="2.0">
+	<head>
+		<title>Columbus Miscellaneous RSS Feeds</title>
+		<dateCreated>20 November 2023</dateCreated>
+		<dateModified>20 Nov 2023</dateModified>
+		<ownerName>Ben Keith</ownerName>
+		<docs>http://opml.org/spec2.opml</docs>
+		<docs>https://github.com/benlk/columbus-govdelivery-rss/</docs>
+	</head>
+	<body>
+		<outline text="Columbus Miscellaneous RSS Feeds" title="Columbus Miscellaneous RSS Feeds">
+			<outline text="Council President Shannon Hardin's personal blog" type="rss" title="Shannon Hardin's Medium" xmlUrl="https://sghardin.medium.com/feed" htmlUrl=""/>
+<outline text="COTA blog; does not contain all COTA press releases and does not contain information on most reroutes" type="rss" title="Central Ohio Transit Authority Blog" xmlUrl="https://cota.com/rss.xml" htmlUrl=""/>
+<outline text="Rec Parks' website; content is not structured in a way that results in a functioning feed and most alerts go out via GovDelivery" type="rss" title="Columbus Recreation and Parks" xmlUrl="https://columbusrecparks.com/feed/" htmlUrl=""/>
+<outline text="Columbus City Schools public RSS feed" type="rss" title="Columbus City Schools" xmlUrl="https://www.ccsoh.us/site/Default.aspx?PageType=4&amp;DomainID=4&amp;ModuleInstanceID=125&amp;PageID=1&amp;PMIID=23636" htmlUrl=""/>
+		</outline>
+	</body>
+</opml>
