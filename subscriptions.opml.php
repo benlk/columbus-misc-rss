@@ -45,12 +45,11 @@ function iterate( $handle ) {
 		 * 5 Feed Type
 		 */
 		printf(
-			'<outline text="%1$s" type="%5$s" title="%2$s" xmlUrl="%3$s" htmlUrl="%4$s"/>',
-			escape($data[3]) ?? '',
-			escape($data[1]) ?? '',
-			$data[4] ?? '',
-			$data[2] ?? '',
-			escape($data[5]) ?? 'rss'
+			'<outline text="%1$s" type="%2$s" xmlUrl="%3$s" htmlUrl="%4$s"/>',
+			escape($data[1]) ?? '', // title
+			escape($data[5]) ?? 'rss', // feed type
+			$data[4] ?? '', // feed URL
+			$data[2] ?? '' // link
 		);
 		echo "\n";
 	}
@@ -69,7 +68,7 @@ $dateModified = date_format( date_create("now"), "d M Y" );
 		<docs>https://github.com/benlk/columbus-govdelivery-rss/</docs>
 	</head>
 	<body>
-		<outline text="Columbus Miscellaneous RSS Feeds" title="Columbus Miscellaneous RSS Feeds">
+		<outline text="Columbus Miscellaneous RSS Feeds">
 			<?php
 				iterate( $handle );
 			?>
