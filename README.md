@@ -2,7 +2,7 @@
 
 **→ [Download the CSV](./feeds.csv) ←**
 
-**→ [Import the OPML](./subscriptions.opml) ←**
+**→ [Import the OPML](https://github.com/benlk/columbus-misc-rss/raw/trunk/subscriptions.opml) ←**
 
 **What**: This repository contains a list of random RSS feeds that I've found which are relevant to the City of Columbus, Ohio. This list excludes the [>290 RSS feeds for Columbus' GovDelivery newsletters](https://github.com/benlk/columbus-govdelivery-rss/). Those feeds are scraped; these are hand-curated.
 
