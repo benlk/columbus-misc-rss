@@ -48,8 +48,8 @@ function iterate( $handle ) {
 			'<outline text="%1$s" type="%5$s" title="%2$s" xmlUrl="%3$s" htmlUrl="%4$s"/>',
 			escape($data[3]) ?? '',
 			escape($data[1]) ?? '',
-			escape($data[4]) ?? '',
-			escape($data[2]) ?? '',
+			$data[4] ?? '',
+			$data[2] ?? '',
 			escape($data[5]) ?? 'rss'
 		);
 		echo "\n";
