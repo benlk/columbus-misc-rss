@@ -1,4 +1,4 @@
-"Feed Number","Title","Link","Description","Feed URL","Newsletter Signup URL","Feed Type"
+"Feed Number","Title","Link","Description","Feed URL","Feed Type"
 "","Shannon Hardin's Medium","https://sghardin.medium.com/","Council President Shannon Hardin's personal blog","https://sghardin.medium.com/feed","rss"
 "","Central Ohio Transit Authority Blog","https://cota.com/blog","COTA blog; does not contain all COTA press releases and does not contain information on most reroutes","https://cota.com/rss.xml","rss"
 "","Columbus Recreation and Parks","https://columbusrecparks.com/","Rec Parks' website; content is not structured in a way that results in a functioning feed and most alerts go out via GovDelivery","https://columbusrecparks.com/feed/","rss"
@@ -6,3 +6,7 @@
 "","benlk/columbus-govdelivery-rss","https://github.com/benlk/columbus-govdelivery-rss/","Recent Commits to Ben Keith's list of Columbus GovDelivery lists","https://github.com/benlk/columbus-govdelivery-rss/commits/trunk.atom","atom"
 "","benlk/columbus-misc-rss","https://github.com/benlk/columbus-misc-rss/","Recent Commits to Ben Keith's list of Columbus RSS feeds","https://github.com/benlk/columbus-misc-rss/commits/trunk.atom","atom"
 "","benlk/columbus-gov-websites","https://github.com/benlk/columbus-gov-websites/","Recent Commits to Ben Keith's list of Columbus-registered domain names","https://github.com/benlk/columbus-gov-websites/commits/main.atom","atom"
+"","City of Columbus videos on YouTube","https://www.youtube.com/@cityofcolumbus/videos","All published videos; not including upcoming events","https://www.youtube.com/feeds/videos.xml?channel_id=UCfttJJ9T5_1W1JewiTJqzqA","atom"
+"","Columbus Police Body Cameras on YouTube","https://www.youtube.com/@ColumbusPoliceBodyCamera/videos","This channel was created to share body camera footage from the Police Department in Columbus, OH. The videos on this channel have been obtained through Public Records Requests. The channel is not run by the Columbus Division of Police or the City of Columbus.","https://www.youtube.com/feeds/videos.xml?channel_id=UCS74cWPjEY1EOuVPM4eJhCw","atom"
+"","Columbus City Schools videos on YouTube","https://www.youtube.com/@ColumbusCitySchoolsOhio/videos","Columbus City Schools' official YouTube channel; mix of content","https://www.youtube.com/feeds/videos.xml?channel_id=UCX43vRgl6nS7uYJbP4aUWog","atom"
+"","Columbus Zoo and Aquarium","https://www.youtube.com/@Columbuszoomedia/videos","Columbus Zoo and Aquarium videos","https://www.youtube.com/feeds/videos.xml?channel_id=UC5we9YmvzbYTGRHvxif0z_w","atom"
