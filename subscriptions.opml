@@ -2,7 +2,7 @@
 	<head>
 		<title>Columbus Miscellaneous RSS Feeds</title>
 		<dateCreated>20 November 2023</dateCreated>
-		<dateModified>20 Nov 2023</dateModified>
+		<dateModified>21 Nov 2023</dateModified>
 		<ownerName>Ben Keith</ownerName>
 		<docs>http://opml.org/spec2.opml</docs>
 		<docs>https://github.com/benlk/columbus-govdelivery-rss/</docs>
@@ -24,6 +24,7 @@
 <outline text="Zone In Columbus" type="rss" xmlUrl="https://zone-in-columbus.hub.arcgis.com/api/feed/rss/2.0" htmlUrl="https://zone-in-columbus.hub.arcgis.com/"/>
 <outline text="Mid-Ohio Regional Planning Commission" type="rss" xmlUrl="https://www.morpc.org/feed/" htmlUrl="https://www.morpc.org/"/>
 <outline text="LinkUs Columbus" type="rss" xmlUrl="https://linkuscolumbus.com/feed/" htmlUrl="https://linkuscolumbus.com/"/>
+<outline text="The 614 for Linden" type="rss" xmlUrl="https://www.the614forlinden.org/blog?format=rss" htmlUrl="https://www.the614forlinden.org/blog"/>
 		</outline>
 	</body>
 </opml>
