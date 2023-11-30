@@ -2,14 +2,14 @@
 	<head>
 		<title>Columbus Miscellaneous RSS Feeds</title>
 		<dateCreated>20 November 2023</dateCreated>
-		<dateModified>21 Nov 2023</dateModified>
+		<dateModified>30 Nov 2023</dateModified>
 		<ownerName>Ben Keith</ownerName>
 		<docs>http://opml.org/spec2.opml</docs>
 		<docs>https://github.com/benlk/columbus-govdelivery-rss/</docs>
 	</head>
 	<body>
 		<outline text="Columbus Miscellaneous RSS Feeds">
-			<outline text="Shannon Hardin's Medium" type="rss" xmlUrl="https://sghardin.medium.com/feed" htmlUrl="https://sghardin.medium.com/"/>
+			<outline text="Shannon Hardin's Medium" type="rss" xmlUrl="https://medium.com/feed/@sghardin" htmlUrl="https://sghardin.medium.com/"/>
 <outline text="Central Ohio Transit Authority Blog" type="rss" xmlUrl="https://cota.com/rss.xml" htmlUrl="https://cota.com/blog"/>
 <outline text="Columbus Recreation and Parks" type="rss" xmlUrl="https://columbusrecparks.com/feed/" htmlUrl="https://columbusrecparks.com/"/>
 <outline text="Columbus City Schools" type="rss" xmlUrl="https://www.ccsoh.us/site/RSS.aspx?DomainID=4&ModuleInstanceID=125&PageID=1&PMIID=23636" htmlUrl="https://www.ccsoh.us/"/>
@@ -25,6 +25,13 @@
 <outline text="Mid-Ohio Regional Planning Commission" type="rss" xmlUrl="https://www.morpc.org/feed/" htmlUrl="https://www.morpc.org/"/>
 <outline text="LinkUs Columbus" type="rss" xmlUrl="https://linkuscolumbus.com/feed/" htmlUrl="https://linkuscolumbus.com/"/>
 <outline text="The 614 for Linden" type="rss" xmlUrl="https://www.the614forlinden.org/blog?format=rss" htmlUrl="https://www.the614forlinden.org/blog"/>
+<outline text="Columbus Northland Community Council" type="rss" xmlUrl="https://www.columbusncc.org/feed/" htmlUrl="https://www.columbusncc.org/"/>
+<outline text="ADAMH Franklin County" type="rss" xmlUrl="https://adamhfranklin.org/feed/" htmlUrl="https://adamhfranklin.org/"/>
+<outline text="OSU Emergency Alerts" type="rss" xmlUrl="https://www.osu.edu/feeds/emergency-alert.rss" htmlUrl=""/>
+<outline text="LinkUS Columbus" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdOdQFBbRQGFQkbA8uxQbBQ" htmlUrl=""/>
+<outline text="Downtown Services News Articles" type="rss" xmlUrl="https://downtownservices.org/news-article/feed/" htmlUrl=""/>
+<outline text="Downtown Services general feed" type="rss" xmlUrl="https://downtownservices.org/feed/" htmlUrl=""/>
+<outline text="Greater Columbus Arts Council" type="rss" xmlUrl="https://www.gcac.org/feed/" htmlUrl=""/>
 		</outline>
 	</body>
 </opml>
