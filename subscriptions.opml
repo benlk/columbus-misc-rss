@@ -12,13 +12,13 @@
 			<outline text="Shannon Hardin's Medium" type="rss" xmlUrl="https://medium.com/feed/@sghardin" htmlUrl="https://sghardin.medium.com/"/>
 <outline text="Central Ohio Transit Authority Blog" type="rss" xmlUrl="https://cota.com/rss.xml" htmlUrl="https://cota.com/blog"/>
 <outline text="Columbus Recreation and Parks" type="rss" xmlUrl="https://columbusrecparks.com/feed/" htmlUrl="https://columbusrecparks.com/"/>
-<outline text="benlk/columbus-govdelivery-rss" type="atom" xmlUrl="https://github.com/benlk/columbus-govdelivery-rss/commits/trunk.atom" htmlUrl="https://github.com/benlk/columbus-govdelivery-rss/"/>
-<outline text="benlk/columbus-misc-rss" type="atom" xmlUrl="https://github.com/benlk/columbus-misc-rss/commits/trunk.atom" htmlUrl="https://github.com/benlk/columbus-misc-rss/"/>
-<outline text="benlk/columbus-gov-websites" type="atom" xmlUrl="https://github.com/benlk/columbus-gov-websites/commits/main.atom" htmlUrl="https://github.com/benlk/columbus-gov-websites/"/>
-<outline text="City of Columbus videos on YouTube" type="atom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfttJJ9T5_1W1JewiTJqzqA" htmlUrl="https://www.youtube.com/@cityofcolumbus/videos"/>
-<outline text="Columbus Police Body Cameras on YouTube" type="atom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCS74cWPjEY1EOuVPM4eJhCw" htmlUrl="https://www.youtube.com/@ColumbusPoliceBodyCamera/videos"/>
-<outline text="Columbus City Schools videos on YouTube" type="atom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCX43vRgl6nS7uYJbP4aUWog" htmlUrl="https://www.youtube.com/@ColumbusCitySchoolsOhio/videos"/>
-<outline text="Columbus Zoo and Aquarium" type="atom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5we9YmvzbYTGRHvxif0z_w" htmlUrl="https://www.youtube.com/@Columbuszoomedia/videos"/>
+<outline text="benlk/columbus-govdelivery-rss" type="rss" xmlUrl="https://github.com/benlk/columbus-govdelivery-rss/commits/trunk.atom" htmlUrl="https://github.com/benlk/columbus-govdelivery-rss/"/>
+<outline text="benlk/columbus-misc-rss" type="rss" xmlUrl="https://github.com/benlk/columbus-misc-rss/commits/trunk.atom" htmlUrl="https://github.com/benlk/columbus-misc-rss/"/>
+<outline text="benlk/columbus-gov-websites" type="rss" xmlUrl="https://github.com/benlk/columbus-gov-websites/commits/main.atom" htmlUrl="https://github.com/benlk/columbus-gov-websites/"/>
+<outline text="City of Columbus videos on YouTube" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfttJJ9T5_1W1JewiTJqzqA" htmlUrl="https://www.youtube.com/@cityofcolumbus/videos"/>
+<outline text="Columbus Police Body Cameras on YouTube" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCS74cWPjEY1EOuVPM4eJhCw" htmlUrl="https://www.youtube.com/@ColumbusPoliceBodyCamera/videos"/>
+<outline text="Columbus City Schools videos on YouTube" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCX43vRgl6nS7uYJbP4aUWog" htmlUrl="https://www.youtube.com/@ColumbusCitySchoolsOhio/videos"/>
+<outline text="Columbus Zoo and Aquarium" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5we9YmvzbYTGRHvxif0z_w" htmlUrl="https://www.youtube.com/@Columbuszoomedia/videos"/>
 <outline text="Columbus Area Commissions" type="rss" xmlUrl="https://cbusareacommissions.org/feed/" htmlUrl="https://cbusareacommissions.org/"/>
 <outline text="Zone In Columbus" type="rss" xmlUrl="https://zone-in-columbus.hub.arcgis.com/api/feed/rss/2.0" htmlUrl="https://zone-in-columbus.hub.arcgis.com/"/>
 <outline text="Mid-Ohio Regional Planning Commission" type="rss" xmlUrl="https://www.morpc.org/feed/" htmlUrl="https://www.morpc.org/"/>
@@ -31,7 +31,7 @@
 <outline text="Downtown Services News Articles" type="rss" xmlUrl="https://downtownservices.org/news-article/feed/" htmlUrl=""/>
 <outline text="Downtown Services general feed" type="rss" xmlUrl="https://downtownservices.org/feed/" htmlUrl=""/>
 <outline text="Greater Columbus Arts Council" type="rss" xmlUrl="https://www.gcac.org/feed/" htmlUrl=""/>
-<outline text="ODOT YouTube" type="atom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfs4Y-HU3bvMOYPVNu9rvAw" htmlUrl=""/>
+<outline text="ODOT YouTube" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfs4Y-HU3bvMOYPVNu9rvAw" htmlUrl=""/>
 <outline text="Unofficial COTA Alerts Feed" type="rss" xmlUrl="https://raw.githubusercontent.com/benlk/cota-reroute-pdf-rss/main/rss.xml" htmlUrl=""/>
 		</outline>
 	</body>
