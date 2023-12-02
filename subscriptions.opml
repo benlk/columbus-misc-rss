@@ -12,7 +12,6 @@
 			<outline text="Shannon Hardin's Medium" type="rss" xmlUrl="https://medium.com/feed/@sghardin" htmlUrl="https://sghardin.medium.com/"/>
 <outline text="Central Ohio Transit Authority Blog" type="rss" xmlUrl="https://cota.com/rss.xml" htmlUrl="https://cota.com/blog"/>
 <outline text="Columbus Recreation and Parks" type="rss" xmlUrl="https://columbusrecparks.com/feed/" htmlUrl="https://columbusrecparks.com/"/>
-<outline text="Columbus City Schools" type="rss" xmlUrl="https://www.ccsoh.us/site/RSS.aspx?DomainID=4&ModuleInstanceID=125&PageID=1&PMIID=23636" htmlUrl="https://www.ccsoh.us/"/>
 <outline text="benlk/columbus-govdelivery-rss" type="atom" xmlUrl="https://github.com/benlk/columbus-govdelivery-rss/commits/trunk.atom" htmlUrl="https://github.com/benlk/columbus-govdelivery-rss/"/>
 <outline text="benlk/columbus-misc-rss" type="atom" xmlUrl="https://github.com/benlk/columbus-misc-rss/commits/trunk.atom" htmlUrl="https://github.com/benlk/columbus-misc-rss/"/>
 <outline text="benlk/columbus-gov-websites" type="atom" xmlUrl="https://github.com/benlk/columbus-gov-websites/commits/main.atom" htmlUrl="https://github.com/benlk/columbus-gov-websites/"/>
