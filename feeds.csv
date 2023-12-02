@@ -22,5 +22,5 @@
 "","Downtown Services News Articles","","News about the Columbus Downtown Special Improvement District","https://downtownservices.org/news-article/feed/","rss"
 "","Downtown Services general feed","","A second feed of articles about the Columbus Downtown Special Improvement District","https://downtownservices.org/feed/","rss"
 "","Greater Columbus Arts Council","","The art funding clearinghouse for Columbus","https://www.gcac.org/feed/","rss"
-"","ODOT YouTube","","Mostly here for ODOT's The Loop vlog, but occasionally there are other interesting things.","https://www.youtube.com/feeds/videos.xml?channel_id=UCfs4Y-HU3bvMOYPVNu9rvAw","rss"
+"","ODOT YouTube","","Mostly here for ODOT's The Loop vlog, but occasionally there are other interesting things.","https://www.youtube.com/feeds/videos.xml?channel_id=UCfs4Y-HU3bvMOYPVNu9rvAw","atom"
 "","Unofficial COTA Alerts Feed","","Unofficial feed parsing COTA.com's alerts feed","https://raw.githubusercontent.com/benlk/cota-reroute-pdf-rss/main/rss.xml","rss"

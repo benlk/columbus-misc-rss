@@ -32,7 +32,7 @@
 <outline text="Downtown Services News Articles" type="rss" xmlUrl="https://downtownservices.org/news-article/feed/" htmlUrl=""/>
 <outline text="Downtown Services general feed" type="rss" xmlUrl="https://downtownservices.org/feed/" htmlUrl=""/>
 <outline text="Greater Columbus Arts Council" type="rss" xmlUrl="https://www.gcac.org/feed/" htmlUrl=""/>
-<outline text="ODOT YouTube" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfs4Y-HU3bvMOYPVNu9rvAw" htmlUrl=""/>
+<outline text="ODOT YouTube" type="atom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfs4Y-HU3bvMOYPVNu9rvAw" htmlUrl=""/>
 <outline text="Unofficial COTA Alerts Feed" type="rss" xmlUrl="https://raw.githubusercontent.com/benlk/cota-reroute-pdf-rss/main/rss.xml" htmlUrl=""/>
 		</outline>
 	</body>
