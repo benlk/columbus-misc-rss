@@ -2,7 +2,7 @@
 	<head>
 		<title>Columbus Miscellaneous RSS Feeds</title>
 		<dateCreated>20 November 2023</dateCreated>
-		<dateModified>01 Dec 2023</dateModified>
+		<dateModified>02 Dec 2023</dateModified>
 		<ownerName>Ben Keith</ownerName>
 		<docs>http://opml.org/spec2.opml</docs>
 		<docs>https://github.com/benlk/columbus-govdelivery-rss/</docs>
@@ -33,6 +33,7 @@
 <outline text="Downtown Services general feed" type="rss" xmlUrl="https://downtownservices.org/feed/" htmlUrl=""/>
 <outline text="Greater Columbus Arts Council" type="rss" xmlUrl="https://www.gcac.org/feed/" htmlUrl=""/>
 <outline text="ODOT YouTube" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfs4Y-HU3bvMOYPVNu9rvAw" htmlUrl=""/>
+<outline text="Unofficial COTA Alerts Feed" type="rss" xmlUrl="https://raw.githubusercontent.com/benlk/cota-reroute-pdf-rss/main/rss.xml" htmlUrl=""/>
 		</outline>
 	</body>
 </opml>
