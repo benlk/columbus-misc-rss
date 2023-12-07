@@ -1,25 +1,30 @@
-"Feed Number","Title","Link","Description","Feed URL","Feed Type"
-"","Shannon Hardin's Medium","https://sghardin.medium.com/","Council President Shannon Hardin's personal blog","https://medium.com/feed/@sghardin","rss"
-"","Central Ohio Transit Authority Blog","https://cota.com/blog","COTA blog; does not contain all COTA press releases and does not contain information on most reroutes","https://cota.com/rss.xml","rss"
-"","Columbus Recreation and Parks","https://columbusrecparks.com/","Rec Parks' website; content is not structured in a way that results in a functioning feed and most alerts go out via GovDelivery","https://columbusrecparks.com/feed/","rss"
-"","benlk/columbus-govdelivery-rss","https://github.com/benlk/columbus-govdelivery-rss/","Recent Commits to Ben Keith's list of Columbus GovDelivery lists","https://github.com/benlk/columbus-govdelivery-rss/commits/trunk.atom","atom"
-"","benlk/columbus-misc-rss","https://github.com/benlk/columbus-misc-rss/","Recent Commits to Ben Keith's list of Columbus RSS feeds","https://github.com/benlk/columbus-misc-rss/commits/trunk.atom","atom"
-"","benlk/columbus-gov-websites","https://github.com/benlk/columbus-gov-websites/","Recent Commits to Ben Keith's list of Columbus-registered domain names","https://github.com/benlk/columbus-gov-websites/commits/main.atom","atom"
-"","City of Columbus videos on YouTube","https://www.youtube.com/@cityofcolumbus/videos","All published videos; not including upcoming events","https://www.youtube.com/feeds/videos.xml?channel_id=UCfttJJ9T5_1W1JewiTJqzqA","atom"
-"","Columbus Police Body Cameras on YouTube","https://www.youtube.com/@ColumbusPoliceBodyCamera/videos","This channel was created to share body camera footage from the Police Department in Columbus, OH. The videos on this channel have been obtained through Public Records Requests. The channel is not run by the Columbus Division of Police or the City of Columbus.","https://www.youtube.com/feeds/videos.xml?channel_id=UCS74cWPjEY1EOuVPM4eJhCw","atom"
-"","Columbus City Schools videos on YouTube","https://www.youtube.com/@ColumbusCitySchoolsOhio/videos","Columbus City Schools' official YouTube channel; mix of content","https://www.youtube.com/feeds/videos.xml?channel_id=UCX43vRgl6nS7uYJbP4aUWog","atom"
-"","Columbus Zoo and Aquarium","https://www.youtube.com/@Columbuszoomedia/videos","Columbus Zoo and Aquarium videos","https://www.youtube.com/feeds/videos.xml?channel_id=UC5we9YmvzbYTGRHvxif0z_w","atom"
-"","Columbus Area Commissions","https://cbusareacommissions.org/","The Department of Neighborhoods occasionally posts information to this feed","https://cbusareacommissions.org/feed/","rss"
-"","Zone In Columbus","https://zone-in-columbus.hub.arcgis.com/","Contingency feed to see if they post any 'posts' to the zoning code update website","https://zone-in-columbus.hub.arcgis.com/api/feed/rss/2.0","rss"
-"","Mid-Ohio Regional Planning Commission","https://www.morpc.org/","MORPC controls a lot of attributable funds used in development in Central Ohio","https://www.morpc.org/feed/","rss"
-"","LinkUs Columbus","https://linkuscolumbus.com/","LinkUs is the plan for expanded transit and access to transit in Central Ohio","https://linkuscolumbus.com/feed/","rss"
-"","The 614 for Linden","https://www.the614forlinden.org/blog","The 614 to Linden is a public-private partnership to invest in Linden","https://www.the614forlinden.org/blog?format=rss","rss"
-"","Columbus Northland Community Council","https://www.columbusncc.org/","Community Council for Northland Area, generally north of Morse Road, south of Westerville, west of New Albany, and east of the I-71 railroad tracks.","https://www.columbusncc.org/feed/","rss"
-"","ADAMH Franklin County","https://adamhfranklin.org/","Alcohol, Drug, and Mental Health Board of Franklin County","https://adamhfranklin.org/feed/","rss"
-"","OSU Emergency Alerts","","This doesn't contain historical information and may only contain items during an active event.","https://www.osu.edu/feeds/emergency-alert.rss","rss"
-"","LinkUS Columbus","","Videos for LinkUS Columbus, the rapid transit planning initiative sponsored by the City of Columbus","https://www.youtube.com/feeds/videos.xml?channel_id=UCdOdQFBbRQGFQkbA8uxQbBQ","rss"
-"","Downtown Services News Articles","","News about the Columbus Downtown Special Improvement District","https://downtownservices.org/news-article/feed/","rss"
-"","Downtown Services general feed","","A second feed of articles about the Columbus Downtown Special Improvement District","https://downtownservices.org/feed/","rss"
-"","Greater Columbus Arts Council","","The art funding clearinghouse for Columbus","https://www.gcac.org/feed/","rss"
-"","ODOT YouTube","","Mostly here for ODOT's The Loop vlog, but occasionally there are other interesting things.","https://www.youtube.com/feeds/videos.xml?channel_id=UCfs4Y-HU3bvMOYPVNu9rvAw","atom"
-"","Unofficial COTA Alerts Feed","","Unofficial feed parsing COTA.com's alerts feed","https://raw.githubusercontent.com/benlk/cota-reroute-pdf-rss/main/rss.xml","rss"
+Feed Number,Title,Link,Description,Feed URL,Feed Type
+,Shannon Hardin's Medium,https://sghardin.medium.com/,Council President Shannon Hardin's personal blog,https://medium.com/feed/@sghardin,rss
+,Central Ohio Transit Authority Blog,https://cota.com/blog,COTA blog; does not contain all COTA press releases and does not contain information on most reroutes,https://cota.com/rss.xml,rss
+,Columbus Recreation and Parks,https://columbusrecparks.com/,Rec Parks' website; content is not structured in a way that results in a functioning feed and most alerts go out via GovDelivery,https://columbusrecparks.com/feed/,rss
+,benlk/columbus-govdelivery-rss,https://github.com/benlk/columbus-govdelivery-rss/,Recent Commits to Ben Keith's list of Columbus GovDelivery lists,https://github.com/benlk/columbus-govdelivery-rss/commits/trunk.atom,atom
+,benlk/columbus-misc-rss,https://github.com/benlk/columbus-misc-rss/,Recent Commits to Ben Keith's list of Columbus RSS feeds,https://github.com/benlk/columbus-misc-rss/commits/trunk.atom,atom
+,benlk/columbus-gov-websites,https://github.com/benlk/columbus-gov-websites/,Recent Commits to Ben Keith's list of Columbus-registered domain names,https://github.com/benlk/columbus-gov-websites/commits/main.atom,atom
+,City of Columbus videos on YouTube,https://www.youtube.com/@cityofcolumbus/videos,All published videos; not including upcoming events,https://www.youtube.com/feeds/videos.xml?channel_id=UCfttJJ9T5_1W1JewiTJqzqA,atom
+,Columbus Police Body Cameras on YouTube,https://www.youtube.com/@ColumbusPoliceBodyCamera/videos,"This channel was created to share body camera footage from the Police Department in Columbus, OH. The videos on this channel have been obtained through Public Records Requests. The channel is not run by the Columbus Division of Police or the City of Columbus.",https://www.youtube.com/feeds/videos.xml?channel_id=UCS74cWPjEY1EOuVPM4eJhCw,atom
+,Columbus City Schools videos on YouTube,https://www.youtube.com/@ColumbusCitySchoolsOhio/videos,Columbus City Schools' official YouTube channel; mix of content,https://www.youtube.com/feeds/videos.xml?channel_id=UCX43vRgl6nS7uYJbP4aUWog,atom
+,Columbus Zoo and Aquarium,https://www.youtube.com/@Columbuszoomedia/videos,Columbus Zoo and Aquarium videos,https://www.youtube.com/feeds/videos.xml?channel_id=UC5we9YmvzbYTGRHvxif0z_w,atom
+,Columbus Area Commissions,https://cbusareacommissions.org/,The Department of Neighborhoods occasionally posts information to this feed,https://cbusareacommissions.org/feed/,rss
+,Zone In Columbus,https://zone-in-columbus.hub.arcgis.com/,Contingency feed to see if they post any 'posts' to the zoning code update website,https://zone-in-columbus.hub.arcgis.com/api/feed/rss/2.0,rss
+,Mid-Ohio Regional Planning Commission,https://www.morpc.org/,MORPC controls a lot of attributable funds used in development in Central Ohio,https://www.morpc.org/feed/,rss
+,LinkUs Columbus,https://linkuscolumbus.com/,LinkUs is the plan for expanded transit and access to transit in Central Ohio,https://linkuscolumbus.com/feed/,rss
+,The 614 for Linden,https://www.the614forlinden.org/blog,The 614 to Linden is a public-private partnership to invest in Linden,https://www.the614forlinden.org/blog?format=rss,rss
+,Columbus Northland Community Council,https://www.columbusncc.org/,"Community Council for Northland Area, generally north of Morse Road, south of Westerville, west of New Albany, and east of the I-71 railroad tracks.",https://www.columbusncc.org/feed/,rss
+,ADAMH Franklin County,https://adamhfranklin.org/,"Alcohol, Drug, and Mental Health Board of Franklin County",https://adamhfranklin.org/feed/,rss
+,OSU Emergency Alerts,,This doesn't contain historical information and may only contain items during an active event.,https://www.osu.edu/feeds/emergency-alert.rss,rss
+,LinkUS Columbus,,"Videos for LinkUS Columbus, the rapid transit planning initiative sponsored by the City of Columbus",https://www.youtube.com/feeds/videos.xml?channel_id=UCdOdQFBbRQGFQkbA8uxQbBQ,rss
+,Downtown Services News Articles,,News about the Columbus Downtown Special Improvement District,https://downtownservices.org/news-article/feed/,rss
+,Downtown Services general feed,,A second feed of articles about the Columbus Downtown Special Improvement District,https://downtownservices.org/feed/,rss
+,Greater Columbus Arts Council,,The art funding clearinghouse for Columbus,https://www.gcac.org/feed/,rss
+,ODOT YouTube,,"Mostly here for ODOT's The Loop vlog, but occasionally there are other interesting things.",https://www.youtube.com/feeds/videos.xml?channel_id=UCfs4Y-HU3bvMOYPVNu9rvAw,atom
+,Unofficial COTA Alerts Feed,https://cota.com,Unofficial feed parsing COTA.com's alerts feed,https://raw.githubusercontent.com/benlk/cota-reroute-pdf-rss/main/rss.xml,rss
+,Transit Columbus newsletter,https://transitcolumbus.org,It's their MailChimp archive,https://us5.campaign-archive.com/feed?u=a19338b5350be844f1b99621c&id=2786ffd7d6,rss
+,North Linden Area Commission zoning newsletter,https://cbusareacommissions.org/north-linden/,It’s their MailChimp archive,https://us21.campaign-archive.com/feed?u=330bc1a667408c7b6f03e46bb&id=b4deb59789,rss
+,Clintonville Area Commission,https://www.clintonvilleareacommission.org/,Whole-website feed for the Clintonville Area Commission,https://www.clintonvilleareacommission.org/feed,rss
+,Clintonville Area Commission zoning committee newsletter,https://www.clintonvilleareacommission.org/,MailChimp newsletter for the Clintonville Zoning and Variance Committee,https://us14.campaign-archive.com/feed?u=3d4bdc2e75c185cac799714d1&id=2af4434c35,rss
+,University Area Commission ,https://universityarea.org/,Whole-website feed,https://universityarea.org/feed,rss
