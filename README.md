@@ -21,6 +21,11 @@
 
 If you find interesting feeds in this list, tell the world, but also tell me on Bluesky [@benlk.com](https://bsky.app/profile/benlk.com) or Mastodon [@benlk@urbanists.social](https://urbanists.social/@benlk)
 
+## Common Issues
+
+- Some RSS feeds here may be published by their servers with an incorrect [`Content-Type` header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type) of `text/html`. If this causes problems for your feedreader, consult your feedreader's documentation. FreshRSS supports adding a `#force_feed` to the end of the feed URL to force the software to interpret the file as `application/rss+xml`
+- Some RSS feeds here have zero items, or update very infrequently.
+
 ## Updating instructions
 
 1. Update the CSV
