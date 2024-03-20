@@ -29,3 +29,8 @@ Feed Number,Title,Link,Description,Feed URL,Feed Type
 ,Clintonville Area Commission zoning committee newsletter,https://www.clintonvilleareacommission.org/,MailChimp newsletter for the Clintonville Zoning and Variance Committee,https://us14.campaign-archive.com/feed?u=3d4bdc2e75c185cac799714d1&id=2af4434c35,rss
 ,University Area Commission ,https://universityarea.org/,Whole-website feed,https://universityarea.org/feed,rss
 ,One Linden,https://us16.campaign-archive.com/home/?u=30613ae7ca0d57eb558719248&id=160853d600,Mailing List Archive for the OneLinden.org newsletters,https://us16.campaign-archive.com/feed?u=30613ae7ca0d57eb558719248&id=160853d600,rss
+,"MORPC News","","Mid-Ohio Regional Planning Commission's News post type","https://www.morpc.org/feed/?post_type=news","rss"
+,"MORPC Committees","","Mid-Ohio Regional Planning Commission's Committees post type","https://www.morpc.org/feed/?post_type=committees","rss"
+,"MORPC Tools and Resources","","Mid-Ohio Regional Planning Commission's Tools & Resources post type","https://www.morpc.org/feed/?post_type=tool-resource","rss"
+,"MORPC Events","","Mid-Ohio Regional Planning Commission's Events post type","https://www.morpc.org/feed/?post_type=event","rss"
+,"MORPC Posts","","Mid-Ohio Regional Planning Commission's Posts post type","https://www.morpc.org/feed/?post_type=post","rss"
