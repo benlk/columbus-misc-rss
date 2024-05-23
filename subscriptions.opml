@@ -2,7 +2,7 @@
 	<head>
 		<title>Columbus Miscellaneous RSS Feeds</title>
 		<dateCreated>20 November 2023</dateCreated>
-		<dateModified>20 Mar 2024</dateModified>
+		<dateModified>23 May 2024</dateModified>
 		<ownerName>Ben Keith</ownerName>
 		<docs>http://opml.org/spec2.opml</docs>
 		<docs>https://github.com/benlk/columbus-govdelivery-rss/</docs>
@@ -44,6 +44,7 @@
 <outline text="MORPC Tools and Resources" type="rss" xmlUrl="https://www.morpc.org/feed/?post_type=tool-resource" htmlUrl=""/>
 <outline text="MORPC Events" type="rss" xmlUrl="https://www.morpc.org/feed/?post_type=event" htmlUrl=""/>
 <outline text="MORPC Posts" type="rss" xmlUrl="https://www.morpc.org/feed/?post_type=post" htmlUrl=""/>
+<outline text="COTA videos on YouTube" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLc0IZfzFc6xu5FKG7BX-0g" htmlUrl="https://www.youtube.com/@TheCOTAbus"/>
 		</outline>
 	</body>
 </opml>

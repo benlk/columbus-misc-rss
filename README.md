@@ -14,10 +14,10 @@
 
 - Feed Number: Legacy field for data format compatibility with [`benlk/columbus-govdelivery-rss`](https://github.com/benlk/columbus-govdelivery-rss/tree/trunk).
 - Title: This is a hand-written title for the feed.
-- Link: This is extracted from each RSS feed. It is the related website URL for the feed, although I note that most URLs are for the maximally-generic domain instead of the more-specific corner of the website.
+- Link: This is is the related website URL for the feed. Sometimes it's extracted from the feed, sometimes it's hand-set, sometimes it's blank.
 - Description: This is a hand-written description of the content of the feed, with my commentary.
 - Feed URL: This is the feed URL.
-- Feed Type: RSS or Atom?
+- Feed Type: RSS or Atom? Doesn't delve into the shades of extended RSS like MRSS.
 
 If you find interesting feeds in this list, tell the world, but also tell me on Bluesky [@benlk.com](https://bsky.app/profile/benlk.com) or Mastodon [@benlk@urbanists.social](https://urbanists.social/@benlk)
 
