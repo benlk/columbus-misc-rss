@@ -34,6 +34,8 @@
 <outline text="ODOT YouTube" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfs4Y-HU3bvMOYPVNu9rvAw" htmlUrl=""/>
 <outline text="Unofficial COTA Alerts Feed" type="rss" xmlUrl="https://raw.githubusercontent.com/benlk/cota-reroute-pdf-rss/main/rss.xml" htmlUrl="https://cota.com"/>
 <outline text="Transit Columbus newsletter" type="rss" xmlUrl="https://us5.campaign-archive.com/feed?u=a19338b5350be844f1b99621c&id=2786ffd7d6" htmlUrl="https://transitcolumbus.org"/>
+<outline text="Transit Columbus newsletter" type="rss" xmlUrl="https://transitcolumbus.org/news-updates?format=rss" htmlUrl="https://transitcolumbus.org"/>
+<outline text="Transit Columbus newsletter" type="rss" xmlUrl="https://transitcolumbus.org/events/?format=rss" htmlUrl="https://transitcolumbus.org"/>
 <outline text="North Linden Area Commission zoning newsletter" type="rss" xmlUrl="https://us21.campaign-archive.com/feed?u=330bc1a667408c7b6f03e46bb&id=b4deb59789" htmlUrl="https://cbusareacommissions.org/north-linden/"/>
 <outline text="Clintonville Area Commission" type="rss" xmlUrl="https://www.clintonvilleareacommission.org/feed" htmlUrl="https://www.clintonvilleareacommission.org/"/>
 <outline text="Clintonville Area Commission zoning committee newsletter" type="rss" xmlUrl="https://us14.campaign-archive.com/feed?u=3d4bdc2e75c185cac799714d1&id=2af4434c35" htmlUrl="https://www.clintonvilleareacommission.org/"/>

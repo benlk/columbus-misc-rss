@@ -24,6 +24,8 @@ Feed Number,Title,Link,Description,Feed URL,Feed Type
 ,ODOT YouTube,,"Mostly here for ODOT's The Loop vlog, but occasionally there are other interesting things.",https://www.youtube.com/feeds/videos.xml?channel_id=UCfs4Y-HU3bvMOYPVNu9rvAw,atom
 ,Unofficial COTA Alerts Feed,https://cota.com,Unofficial feed parsing COTA.com's alerts feed,https://raw.githubusercontent.com/benlk/cota-reroute-pdf-rss/main/rss.xml,rss
 ,Transit Columbus newsletter,https://transitcolumbus.org,It's their MailChimp archive,https://us5.campaign-archive.com/feed?u=a19338b5350be844f1b99621c&id=2786ffd7d6,rss
+,Transit Columbus newsletter,https://transitcolumbus.org,News and Updates,https://transitcolumbus.org/news-updates?format=rss,rss
+,Transit Columbus newsletter,https://transitcolumbus.org,Events,https://transitcolumbus.org/events/?format=rss,rss
 ,North Linden Area Commission zoning newsletter,https://cbusareacommissions.org/north-linden/,It’s their MailChimp archive,https://us21.campaign-archive.com/feed?u=330bc1a667408c7b6f03e46bb&id=b4deb59789,rss
 ,Clintonville Area Commission,https://www.clintonvilleareacommission.org/,Whole-website feed for the Clintonville Area Commission,https://www.clintonvilleareacommission.org/feed,rss
 ,Clintonville Area Commission zoning committee newsletter,https://www.clintonvilleareacommission.org/,MailChimp newsletter for the Clintonville Zoning and Variance Committee,https://us14.campaign-archive.com/feed?u=3d4bdc2e75c185cac799714d1&id=2af4434c35,rss
