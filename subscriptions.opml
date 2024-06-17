@@ -2,7 +2,7 @@
 	<head>
 		<title>Columbus Miscellaneous RSS Feeds</title>
 		<dateCreated>20 November 2023</dateCreated>
-		<dateModified>23 May 2024</dateModified>
+		<dateModified>17 Jun 2024</dateModified>
 		<ownerName>Ben Keith</ownerName>
 		<docs>http://opml.org/spec2.opml</docs>
 		<docs>https://github.com/benlk/columbus-govdelivery-rss/</docs>
@@ -37,7 +37,6 @@
 <outline text="North Linden Area Commission zoning newsletter" type="rss" xmlUrl="https://us21.campaign-archive.com/feed?u=330bc1a667408c7b6f03e46bb&id=b4deb59789" htmlUrl="https://cbusareacommissions.org/north-linden/"/>
 <outline text="Clintonville Area Commission" type="rss" xmlUrl="https://www.clintonvilleareacommission.org/feed" htmlUrl="https://www.clintonvilleareacommission.org/"/>
 <outline text="Clintonville Area Commission zoning committee newsletter" type="rss" xmlUrl="https://us14.campaign-archive.com/feed?u=3d4bdc2e75c185cac799714d1&id=2af4434c35" htmlUrl="https://www.clintonvilleareacommission.org/"/>
-<outline text="University Area Commission " type="rss" xmlUrl="https://universityarea.org/feed" htmlUrl="https://universityarea.org/"/>
 <outline text="One Linden" type="rss" xmlUrl="https://us16.campaign-archive.com/feed?u=30613ae7ca0d57eb558719248&id=160853d600" htmlUrl="https://us16.campaign-archive.com/home/?u=30613ae7ca0d57eb558719248&id=160853d600"/>
 <outline text="MORPC News" type="rss" xmlUrl="https://www.morpc.org/feed/?post_type=news" htmlUrl=""/>
 <outline text="MORPC Committees" type="rss" xmlUrl="https://www.morpc.org/feed/?post_type=committees" htmlUrl=""/>
