@@ -2,7 +2,7 @@
 	<head>
 		<title>Columbus Miscellaneous RSS Feeds</title>
 		<dateCreated>20 November 2023</dateCreated>
-		<dateModified>18 Feb 2025</dateModified>
+		<dateModified>09 Sep 2025</dateModified>
 		<ownerName>Ben Keith</ownerName>
 		<docs>http://opml.org/spec2.opml</docs>
 		<docs>https://github.com/benlk/columbus-govdelivery-rss/</docs>
@@ -50,6 +50,8 @@
 <outline text="Bronzeville/Mt. Vernon Avenue Mobility and Safety action Plan" type="rss" xmlUrl="https://bronzevillemoves.com/feed" htmlUrl="https://bronzevillemoves.com/"/>
 <outline text="Metro Parks Blog" type="rss" xmlUrl="https://www.metroparks.net/blog/feed" htmlUrl="https://www.metroparks.net/blog"/>
 <outline text="Affordable Housing Alliance of Central Ohio" type="rss" xmlUrl="https://www.ahaco.org/news?format=rss" htmlUrl="https://www.ahaco.org/"/>
+<outline text="Latino Heritage Month" type="rss" xmlUrl="http://www.latinoheritagecbus.org/feed/" htmlUrl="http://www.latinoheritagecbus.org/"/>
+<outline text="Latino Heritage Month Newsletter" type="rss" xmlUrl="https://us17.campaign-archive.com/feed?u=3ec08b10d2d2d9f498e26642e&id=a18aae7f98" htmlUrl="http://www.latinoheritagecbus.org/"/>
 		</outline>
 	</body>
 </opml>
