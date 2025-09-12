@@ -2,7 +2,7 @@
 	<head>
 		<title>Columbus Miscellaneous RSS Feeds</title>
 		<dateCreated>20 November 2023</dateCreated>
-		<dateModified>09 Sep 2025</dateModified>
+		<dateModified>12 Sep 2025</dateModified>
 		<ownerName>Ben Keith</ownerName>
 		<docs>http://opml.org/spec2.opml</docs>
 		<docs>https://github.com/benlk/columbus-govdelivery-rss/</docs>
@@ -48,6 +48,7 @@
 <outline text="COTA videos on YouTube" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLc0IZfzFc6xu5FKG7BX-0g" htmlUrl="https://www.youtube.com/@TheCOTAbus"/>
 <outline text="City of Columbus Land Stewardship Program" type="rss" xmlUrl="https://landstewardshipcolumbus.com/feed" htmlUrl="https://landstewardshipcolumbus.com/"/>
 <outline text="Bronzeville/Mt. Vernon Avenue Mobility and Safety action Plan" type="rss" xmlUrl="https://bronzevillemoves.com/feed" htmlUrl="https://bronzevillemoves.com/"/>
+<outline text="Capital Line Updates from Downtown Columbus Inc." type="rss" xmlUrl="https://us20.campaign-archive.com/feed?u=23d046be52c23a359a09fb6be&id=6047a8f954" htmlUrl="https://downtowncolumbus.com/projects-initiatives/capitalline/"/>
 <outline text="Metro Parks Blog" type="rss" xmlUrl="https://www.metroparks.net/blog/feed" htmlUrl="https://www.metroparks.net/blog"/>
 <outline text="Affordable Housing Alliance of Central Ohio" type="rss" xmlUrl="https://www.ahaco.org/news?format=rss" htmlUrl="https://www.ahaco.org/"/>
 <outline text="Latino Heritage Month" type="rss" xmlUrl="http://www.latinoheritagecbus.org/feed/" htmlUrl="http://www.latinoheritagecbus.org/"/>
