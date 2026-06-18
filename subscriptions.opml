@@ -2,7 +2,7 @@
 	<head>
 		<title>Columbus Miscellaneous RSS Feeds</title>
 		<dateCreated>20 November 2023</dateCreated>
-		<dateModified>26 Dec 2025</dateModified>
+		<dateModified>18 Jun 2026</dateModified>
 		<ownerName>Ben Keith</ownerName>
 		<docs>http://opml.org/spec2.opml</docs>
 		<docs>https://github.com/benlk/columbus-govdelivery-rss/</docs>
@@ -54,6 +54,7 @@
 <outline text="Latino Heritage Month" type="rss" xmlUrl="http://www.latinoheritagecbus.org/feed/" htmlUrl="http://www.latinoheritagecbus.org/"/>
 <outline text="Latino Heritage Month Newsletter" type="rss" xmlUrl="https://us17.campaign-archive.com/feed?u=3ec08b10d2d2d9f498e26642e&id=a18aae7f98" htmlUrl="http://www.latinoheritagecbus.org/"/>
 <outline text="My Buddy Charles" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCITy17a_us_dT6f18dfVy2g" htmlUrl="https://www.youtube.com/@mybuddycharles614"/>
+<outline text="Clean Energy Columbus" type="rss" xmlUrl="https://cleanenergycolumbus.org/feed" htmlUrl="https://cleanenergycolumbus.org/"/>
 		</outline>
 	</body>
 </opml>
