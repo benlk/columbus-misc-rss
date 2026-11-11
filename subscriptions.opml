@@ -2,7 +2,7 @@
 	<head>
 		<title>Columbus Miscellaneous RSS Feeds</title>
 		<dateCreated>Mon, 20 Nov 2023 13:25:00 +0400 </dateCreated>
-		<dateModified>Wed, 11 Nov 26 18:50:14 +0000</dateModified>
+		<dateModified>Wed, 11 Nov 26 18:52:08 +0000</dateModified>
 		<ownerName>Ben Keith</ownerName>
 		<docs>http://opml.org/spec2.opml</docs>
 		<docs>https://github.com/benlk/columbus-govdelivery-rss/</docs>
@@ -30,7 +30,7 @@
 <outline text="LinkUS Columbus" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdOdQFBbRQGFQkbA8uxQbBQ" htmlUrl="https://www.youtube.com/@linkuscolumbus"/>
 <outline text="Downtown Services News Articles" type="rss" xmlUrl="https://downtownservices.org/news/feed" htmlUrl="https://downtownservices.org/news/"/>
 <outline text="Downtown Services general feed" type="rss" xmlUrl="https://downtownservices.org/feed/" htmlUrl="https://downtownservices.org/"/>
-<outline text="Greater Columbus Arts Council" type="rss" xmlUrl="https://www.gcac.org/feed/" htmlUrl=""/>
+<outline text="Greater Columbus Arts Council" type="rss" xmlUrl="https://www.gcac.org/feed/" htmlUrl="https://www.gcac.org/"/>
 <outline text="ODOT YouTube" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfs4Y-HU3bvMOYPVNu9rvAw" htmlUrl="https://www.youtube.com/@OhioTransportation"/>
 <outline text="Unofficial COTA Alerts Feed" type="rss" xmlUrl="https://raw.githubusercontent.com/benlk/cota-reroute-pdf-rss/main/rss.xml" htmlUrl="https://cota.com"/>
 <outline text="Transit Columbus newsletter" type="rss" xmlUrl="https://us5.campaign-archive.com/feed?u=a19338b5350be844f1b99621c&amp;id=2786ffd7d6" htmlUrl="https://transitcolumbus.org"/>

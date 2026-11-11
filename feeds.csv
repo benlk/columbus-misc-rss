@@ -20,7 +20,7 @@ Feed Number,Title,Link,Description,Feed URL,Feed Type
 ,LinkUS Columbus,https://www.youtube.com/@linkuscolumbus,"Videos for LinkUS Columbus, the rapid transit planning initiative sponsored by the City of Columbus",https://www.youtube.com/feeds/videos.xml?channel_id=UCdOdQFBbRQGFQkbA8uxQbBQ,rss
 ,Downtown Services News Articles,https://downtownservices.org/news/,News about the Columbus Downtown Special Improvement District,https://downtownservices.org/news/feed,rss
 ,Downtown Services general feed,https://downtownservices.org/,A second feed of articles about the Columbus Downtown Special Improvement District,https://downtownservices.org/feed/,rss
-,Greater Columbus Arts Council,,The art funding clearinghouse for Columbus,https://www.gcac.org/feed/,rss
+,Greater Columbus Arts Council,https://www.gcac.org/,The art funding clearinghouse for Columbus,https://www.gcac.org/feed/,rss
 ,ODOT YouTube,https://www.youtube.com/@OhioTransportation,"Mostly here for ODOT's The Loop vlog, but occasionally there are other interesting things.",https://www.youtube.com/feeds/videos.xml?channel_id=UCfs4Y-HU3bvMOYPVNu9rvAw,atom
 ,Unofficial COTA Alerts Feed,https://cota.com,Unofficial feed parsing COTA.com's alerts feed,https://raw.githubusercontent.com/benlk/cota-reroute-pdf-rss/main/rss.xml,rss
 ,Transit Columbus newsletter,https://transitcolumbus.org,It's their MailChimp archive,https://us5.campaign-archive.com/feed?u=a19338b5350be844f1b99621c&id=2786ffd7d6,rss
