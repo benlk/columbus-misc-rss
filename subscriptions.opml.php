@@ -45,7 +45,7 @@ function iterate( $handle ) {
 		 * 5 Feed Type
 		 */
 		printf(
-			'<outline text="%1$s" type="%2$s" xmlUrl="%3$s" htmlUrl="%4$s"/>',
+			'<outline text="%1$s" title="%1$s" type="%2$s" xmlUrl="%3$s" htmlUrl="%4$s"/>',
 			escape($data[1]) ?? '', // title
 			'rss', // feed type is hardcoded; these are all feeds
 			escape($data[4]) ?? '', // feed URL
