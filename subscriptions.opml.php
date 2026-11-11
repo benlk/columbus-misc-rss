@@ -55,7 +55,7 @@ function iterate( $handle ) {
 	}
 }
 
-$dateModified = date_format( date_create("now"), DATE_RFC822 );
+$dateModified = date_format( date_create("now"), DATE_RFC2822 );
 
 ?>
 <opml version="2.0">
