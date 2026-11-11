@@ -2,7 +2,7 @@
 	<head>
 		<title>Columbus Miscellaneous RSS Feeds</title>
 		<dateCreated>Mon, 20 Nov 2023 13:25:00 +0400 </dateCreated>
-		<dateModified>Wed, 11 Nov 26 18:42:11 +0000</dateModified>
+		<dateModified>Wed, 11 Nov 26 18:50:14 +0000</dateModified>
 		<ownerName>Ben Keith</ownerName>
 		<docs>http://opml.org/spec2.opml</docs>
 		<docs>https://github.com/benlk/columbus-govdelivery-rss/</docs>
@@ -33,13 +33,13 @@
 <outline text="Greater Columbus Arts Council" type="rss" xmlUrl="https://www.gcac.org/feed/" htmlUrl=""/>
 <outline text="ODOT YouTube" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfs4Y-HU3bvMOYPVNu9rvAw" htmlUrl="https://www.youtube.com/@OhioTransportation"/>
 <outline text="Unofficial COTA Alerts Feed" type="rss" xmlUrl="https://raw.githubusercontent.com/benlk/cota-reroute-pdf-rss/main/rss.xml" htmlUrl="https://cota.com"/>
-<outline text="Transit Columbus newsletter" type="rss" xmlUrl="https://us5.campaign-archive.com/feed?u=a19338b5350be844f1b99621c&id=2786ffd7d6" htmlUrl="https://transitcolumbus.org"/>
+<outline text="Transit Columbus newsletter" type="rss" xmlUrl="https://us5.campaign-archive.com/feed?u=a19338b5350be844f1b99621c&amp;id=2786ffd7d6" htmlUrl="https://transitcolumbus.org"/>
 <outline text="Transit Columbus newsletter" type="rss" xmlUrl="https://transitcolumbus.org/news-updates?format=rss" htmlUrl="https://transitcolumbus.org"/>
 <outline text="Transit Columbus newsletter" type="rss" xmlUrl="https://transitcolumbus.org/events/?format=rss" htmlUrl="https://transitcolumbus.org"/>
-<outline text="North Linden Area Commission zoning newsletter" type="rss" xmlUrl="https://us21.campaign-archive.com/feed?u=330bc1a667408c7b6f03e46bb&id=b4deb59789" htmlUrl="https://cbusareacommissions.org/northlinden/"/>
+<outline text="North Linden Area Commission zoning newsletter" type="rss" xmlUrl="https://us21.campaign-archive.com/feed?u=330bc1a667408c7b6f03e46bb&amp;id=b4deb59789" htmlUrl="https://cbusareacommissions.org/northlinden/"/>
 <outline text="Clintonville Area Commission" type="rss" xmlUrl="https://www.clintonvilleareacommission.org/feed" htmlUrl="https://www.clintonvilleareacommission.org/"/>
-<outline text="Clintonville Area Commission zoning committee newsletter" type="rss" xmlUrl="https://us14.campaign-archive.com/feed?u=3d4bdc2e75c185cac799714d1&id=2af4434c35" htmlUrl="https://www.clintonvilleareacommission.org/"/>
-<outline text="One Linden" type="rss" xmlUrl="https://us16.campaign-archive.com/feed?u=30613ae7ca0d57eb558719248&id=160853d600" htmlUrl="https://us16.campaign-archive.com/home/?u=30613ae7ca0d57eb558719248&id=160853d600"/>
+<outline text="Clintonville Area Commission zoning committee newsletter" type="rss" xmlUrl="https://us14.campaign-archive.com/feed?u=3d4bdc2e75c185cac799714d1&amp;id=2af4434c35" htmlUrl="https://www.clintonvilleareacommission.org/"/>
+<outline text="One Linden" type="rss" xmlUrl="https://us16.campaign-archive.com/feed?u=30613ae7ca0d57eb558719248&amp;id=160853d600" htmlUrl="https://us16.campaign-archive.com/home/?u=30613ae7ca0d57eb558719248&amp;id=160853d600"/>
 <outline text="MORPC News" type="rss" xmlUrl="https://www.morpc.org/feed/?post_type=news" htmlUrl="https://www.morpc.org/news/"/>
 <outline text="MORPC Committees" type="rss" xmlUrl="https://www.morpc.org/feed/?post_type=committees" htmlUrl="https://www.morpc.org/committees/"/>
 <outline text="MORPC Tools and Resources" type="rss" xmlUrl="https://www.morpc.org/feed/?post_type=tool-resource" htmlUrl="https://www.morpc.org/tools-and-resources/"/>
@@ -48,12 +48,12 @@
 <outline text="COTA videos on YouTube" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLc0IZfzFc6xu5FKG7BX-0g" htmlUrl="https://www.youtube.com/@TheCOTAbus"/>
 <outline text="City of Columbus Land Stewardship Program" type="rss" xmlUrl="https://landstewardshipcolumbus.com/feed" htmlUrl="https://landstewardshipcolumbus.com/"/>
 <outline text="Bronzeville/Mt. Vernon Avenue Mobility and Safety action Plan" type="rss" xmlUrl="https://bronzevillemoves.com/feed" htmlUrl="https://bronzevillemoves.com/"/>
-<outline text="Capital Line Updates from Downtown Columbus Inc." type="rss" xmlUrl="https://us20.campaign-archive.com/feed?u=23d046be52c23a359a09fb6be&id=6047a8f954" htmlUrl="https://downtowncolumbus.com/projects-initiatives/capitalline/"/>
+<outline text="Capital Line Updates from Downtown Columbus Inc." type="rss" xmlUrl="https://us20.campaign-archive.com/feed?u=23d046be52c23a359a09fb6be&amp;id=6047a8f954" htmlUrl="https://downtowncolumbus.com/projects-initiatives/capitalline/"/>
 <outline text="Metro Parks Blog" type="rss" xmlUrl="https://www.metroparks.net/blog/feed" htmlUrl="https://www.metroparks.net/blog"/>
 <outline text="Affordable Housing Alliance of Central Ohio" type="rss" xmlUrl="https://www.ahaco.org/news?format=rss" htmlUrl="https://www.ahaco.org/"/>
 <outline text="Affordable Housing Alliance of Central Ohio YouTube" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkS9JG1y0_GmU1_TzxwZB-g" htmlUrl="https://www.ahaco.org/"/>
 <outline text="Latino Heritage Month" type="rss" xmlUrl="http://www.latinoheritagecbus.org/feed/" htmlUrl="http://www.latinoheritagecbus.org/"/>
-<outline text="Latino Heritage Month Newsletter" type="rss" xmlUrl="https://us17.campaign-archive.com/feed?u=3ec08b10d2d2d9f498e26642e&id=a18aae7f98" htmlUrl="http://www.latinoheritagecbus.org/"/>
+<outline text="Latino Heritage Month Newsletter" type="rss" xmlUrl="https://us17.campaign-archive.com/feed?u=3ec08b10d2d2d9f498e26642e&amp;id=a18aae7f98" htmlUrl="http://www.latinoheritagecbus.org/"/>
 <outline text="My Buddy Charles" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCITy17a_us_dT6f18dfVy2g" htmlUrl="https://www.youtube.com/@mybuddycharles614"/>
 <outline text="Clean Energy Columbus" type="rss" xmlUrl="https://cleanenergycolumbus.org/feed" htmlUrl="https://cleanenergycolumbus.org/"/>
 <outline text="Engage Columbus unofficial RSS feed" type="rss" xmlUrl="https://raw.githubusercontent.com/benlk/engage-columbus-scrape-to-rss/refs/heads/trunk/feed.xml" htmlUrl="https://github.com/benlk/engage-columbus-scrape-to-rss"/>

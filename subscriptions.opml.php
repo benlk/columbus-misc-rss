@@ -48,8 +48,8 @@ function iterate( $handle ) {
 			'<outline text="%1$s" type="%2$s" xmlUrl="%3$s" htmlUrl="%4$s"/>',
 			escape($data[1]) ?? '', // title
 			'rss', // feed type is hardcoded; these are all feeds
-			$data[4] ?? '', // feed URL
-			$data[2] ?? '' // link
+			escape($data[4]) ?? '', // feed URL
+			escape($data[2]) ?? '' // link
 		);
 		echo "\n";
 	}
