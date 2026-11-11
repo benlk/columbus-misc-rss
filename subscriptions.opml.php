@@ -55,13 +55,13 @@ function iterate( $handle ) {
 	}
 }
 
-$dateModified = date_format( date_create("now"), "d M Y" );
+$dateModified = date_format( date_create("now"), DATE_RFC822 );
 
 ?>
 <opml version="2.0">
 	<head>
 		<title>Columbus Miscellaneous RSS Feeds</title>
-		<dateCreated>20 November 2023</dateCreated>
+		<dateCreated>Mon, 20 Nov 2023 13:25:00 +0400 </dateCreated>
 		<dateModified><?php echo $dateModified; ?></dateModified>
 		<ownerName>Ben Keith</ownerName>
 		<docs>http://opml.org/spec2.opml</docs>
