@@ -2,7 +2,7 @@
 	<head>
 		<title>Columbus Miscellaneous RSS Feeds</title>
 		<dateCreated>Mon, 20 Nov 2023 13:25:00 +0400 </dateCreated>
-		<dateModified>Wed, 11 Nov 2026 18:57:33 +0000</dateModified>
+		<dateModified>Wed, 11 Nov 2026 22:15:48 +0000</dateModified>
 		<ownerName>Ben Keith</ownerName>
 	</head>
 	<body>
@@ -54,7 +54,7 @@
 <outline text="Latino Heritage Month Newsletter" title="Latino Heritage Month Newsletter" type="rss" xmlUrl="https://us17.campaign-archive.com/feed?u=3ec08b10d2d2d9f498e26642e&amp;id=a18aae7f98" htmlUrl="http://www.latinoheritagecbus.org/"/>
 <outline text="My Buddy Charles" title="My Buddy Charles" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCITy17a_us_dT6f18dfVy2g" htmlUrl="https://www.youtube.com/@mybuddycharles614"/>
 <outline text="Clean Energy Columbus" title="Clean Energy Columbus" type="rss" xmlUrl="https://cleanenergycolumbus.org/feed" htmlUrl="https://cleanenergycolumbus.org/"/>
-<outline text="Engage Columbus unofficial RSS feed" title="Engage Columbus unofficial RSS feed" type="rss" xmlUrl="https://raw.githubusercontent.com/benlk/engage-columbus-scrape-to-rss/refs/heads/trunk/feed.xml" htmlUrl="https://github.com/benlk/engage-columbus-scrape-to-rss"/>
+<outline text="Engage Columbus unofficial RSS feed" title="Engage Columbus unofficial RSS feed" type="rss" xmlUrl="https://benlk.github.io/engage-columbus-scrape-to-rss/feed.xml" htmlUrl="https://github.com/benlk/engage-columbus-scrape-to-rss"/>
 		</outline>
 	</body>
 </opml>
