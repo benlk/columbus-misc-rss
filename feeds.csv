@@ -16,12 +16,12 @@ Feed Number,Title,Link,Description,Feed URL,Feed Type
 ,The 614 for Linden,https://www.the614forlinden.org/blog,The 614 to Linden is a public-private partnership to invest in Linden,https://www.the614forlinden.org/blog?format=rss,rss
 ,Columbus Northland Community Council,https://www.columbusncc.org/,"Community Council for Northland Area, generally north of Morse Road, south of Westerville, west of New Albany, and east of the I-71 railroad tracks.",https://www.columbusncc.org/feed/,rss
 ,ADAMH Franklin County,https://adamhfranklin.org/,"Alcohol, Drug, and Mental Health Board of Franklin County",https://adamhfranklin.org/feed/,rss
-,OSU Emergency Alerts,,This doesn't contain historical information and may only contain items during an active event.,https://www.osu.edu/feeds/emergency-alert.rss,rss
-,LinkUS Columbus,,"Videos for LinkUS Columbus, the rapid transit planning initiative sponsored by the City of Columbus",https://www.youtube.com/feeds/videos.xml?channel_id=UCdOdQFBbRQGFQkbA8uxQbBQ,rss
-,Downtown Services News Articles,,News about the Columbus Downtown Special Improvement District,https://downtownservices.org/news-article/feed/,rss
-,Downtown Services general feed,,A second feed of articles about the Columbus Downtown Special Improvement District,https://downtownservices.org/feed/,rss
+,OSU Emergency Alerts,https://dps.osu.edu/alert-notices,This doesn't contain historical information and may only contain items during an active event.,https://www.osu.edu/feeds/emergency-alert.rss,rss
+,LinkUS Columbus,https://www.youtube.com/@linkuscolumbus,"Videos for LinkUS Columbus, the rapid transit planning initiative sponsored by the City of Columbus",https://www.youtube.com/feeds/videos.xml?channel_id=UCdOdQFBbRQGFQkbA8uxQbBQ,rss
+,Downtown Services News Articles,https://downtownservices.org/news/,News about the Columbus Downtown Special Improvement District,https://downtownservices.org/news/feed,rss
+,Downtown Services general feed,https://downtownservices.org/,A second feed of articles about the Columbus Downtown Special Improvement District,https://downtownservices.org/feed/,rss
 ,Greater Columbus Arts Council,,The art funding clearinghouse for Columbus,https://www.gcac.org/feed/,rss
-,ODOT YouTube,,"Mostly here for ODOT's The Loop vlog, but occasionally there are other interesting things.",https://www.youtube.com/feeds/videos.xml?channel_id=UCfs4Y-HU3bvMOYPVNu9rvAw,atom
+,ODOT YouTube,https://www.youtube.com/@OhioTransportation,"Mostly here for ODOT's The Loop vlog, but occasionally there are other interesting things.",https://www.youtube.com/feeds/videos.xml?channel_id=UCfs4Y-HU3bvMOYPVNu9rvAw,atom
 ,Unofficial COTA Alerts Feed,https://cota.com,Unofficial feed parsing COTA.com's alerts feed,https://raw.githubusercontent.com/benlk/cota-reroute-pdf-rss/main/rss.xml,rss
 ,Transit Columbus newsletter,https://transitcolumbus.org,It's their MailChimp archive,https://us5.campaign-archive.com/feed?u=a19338b5350be844f1b99621c&id=2786ffd7d6,rss
 ,Transit Columbus newsletter,https://transitcolumbus.org,News and Updates,https://transitcolumbus.org/news-updates?format=rss,rss
@@ -30,11 +30,11 @@ Feed Number,Title,Link,Description,Feed URL,Feed Type
 ,Clintonville Area Commission,https://www.clintonvilleareacommission.org/,Whole-website feed for the Clintonville Area Commission,https://www.clintonvilleareacommission.org/feed,rss
 ,Clintonville Area Commission zoning committee newsletter,https://www.clintonvilleareacommission.org/,MailChimp newsletter for the Clintonville Zoning and Variance Committee,https://us14.campaign-archive.com/feed?u=3d4bdc2e75c185cac799714d1&id=2af4434c35,rss
 ,One Linden,https://us16.campaign-archive.com/home/?u=30613ae7ca0d57eb558719248&id=160853d600,Mailing List Archive for the OneLinden.org newsletters,https://us16.campaign-archive.com/feed?u=30613ae7ca0d57eb558719248&id=160853d600,rss
-,"MORPC News","","Mid-Ohio Regional Planning Commission's News post type","https://www.morpc.org/feed/?post_type=news","rss"
-,"MORPC Committees","","Mid-Ohio Regional Planning Commission's Committees post type","https://www.morpc.org/feed/?post_type=committees","rss"
-,"MORPC Tools and Resources","","Mid-Ohio Regional Planning Commission's Tools & Resources post type","https://www.morpc.org/feed/?post_type=tool-resource","rss"
-,"MORPC Events","","Mid-Ohio Regional Planning Commission's Events post type","https://www.morpc.org/feed/?post_type=event","rss"
-,"MORPC Posts","","Mid-Ohio Regional Planning Commission's Posts post type","https://www.morpc.org/feed/?post_type=post","rss"
+,"MORPC News","https://www.morpc.org/news/","Mid-Ohio Regional Planning Commission's News post type","https://www.morpc.org/feed/?post_type=news","rss"
+,"MORPC Committees","https://www.morpc.org/committees/","Mid-Ohio Regional Planning Commission's Committees post type","https://www.morpc.org/feed/?post_type=committees","rss"
+,"MORPC Tools and Resources","https://www.morpc.org/tools-and-resources/","Mid-Ohio Regional Planning Commission's Tools & Resources post type","https://www.morpc.org/feed/?post_type=tool-resource","rss"
+,"MORPC Events","https://www.morpc.org/meetings-and-events/","Mid-Ohio Regional Planning Commission's Events post type","https://www.morpc.org/feed/?post_type=event","rss"
+,"MORPC Posts","https://www.morpc.org/","Mid-Ohio Regional Planning Commission's Posts post type","https://www.morpc.org/feed/?post_type=post","rss"
 ,"COTA videos on YouTube","https://www.youtube.com/@TheCOTAbus","Official YouTube channel of the Central Ohio Transit Authority","https://www.youtube.com/feeds/videos.xml?channel_id=UCLc0IZfzFc6xu5FKG7BX-0g","rss"
 ,"City of Columbus Land Stewardship Program","https://landstewardshipcolumbus.com/","Land Stewardship Program updates","https://landstewardshipcolumbus.com/feed","rss"
 ,"Bronzeville/Mt. Vernon Avenue Mobility and Safety action Plan","https://bronzevillemoves.com/","Program updates","https://bronzevillemoves.com/feed","rss"
