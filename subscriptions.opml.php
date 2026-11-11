@@ -64,8 +64,6 @@ $dateModified = date_format( date_create("now"), DATE_RFC2822 );
 		<dateCreated>Mon, 20 Nov 2023 13:25:00 +0400 </dateCreated>
 		<dateModified><?php echo $dateModified; ?></dateModified>
 		<ownerName>Ben Keith</ownerName>
-		<docs>http://opml.org/spec2.opml</docs>
-		<docs>https://github.com/benlk/columbus-govdelivery-rss/</docs>
 	</head>
 	<body>
 		<outline text="Columbus Miscellaneous RSS Feeds">
